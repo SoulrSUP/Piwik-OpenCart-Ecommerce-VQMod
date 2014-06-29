@@ -371,8 +371,8 @@ class ModelToolPiwik extends Model {
 			// Get the javascript for the number of search results
 			$piwik_footer .= $this->trackSiteSearch();
 					
-			$piwik_footer .= '_paq.push(["trackPageView"]);' .
-					'_paq.push(["enableLinkTracking"]);' . "\n";
+			//$piwik_footer .= '_paq.push(["trackPageView"]);' .
+			//		'_paq.push(["enableLinkTracking"]);' . "\n";
 			
 			if ($this->piwik_proxy_enable) {
 				// Use Piwik proxy script to hide actual piwik URL.

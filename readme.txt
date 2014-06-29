@@ -9,10 +9,9 @@ Important things to note:
 
 2. We have tested this plugin and it works on our installation.  We make no guarantees, but let us know if you run into any issues.
 
-3. Please read Kevin's directions below, they explain the entire installation process.
+3. Read Kevin's directions below, they explain the entire installation process.
 
-
-
+4. If you find this useful, please donate to the orginal author of the code, Kevin Bibby. He has put a LOT of work into this and is offering it up for free.  Here's his donation URL: http://inanecoding.co.uk/donate/
 
 
 

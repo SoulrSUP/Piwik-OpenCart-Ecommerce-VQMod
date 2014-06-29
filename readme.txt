@@ -1,13 +1,13 @@
 ------------------------------------------------------
-For MijoShop - Piwik OpenCart Ecommerce VQmod
+Modified For MijoShop - Piwik OpenCart Ecommerce VQmod
 ------------------------------------------------------
-This is a modified version of Kevin Bibby's fantastic Piwk for Opencart Module.  We have tweaked it to work with MijoShop, which is a Joomla extension that ports Opencart into the CMS.
+This is a modified version of Kevin Bibby's fantastic "Piwik for Opencart Module".  We have tweaked it to work with MijoShop, which is a Joomla extension that ports Opencart into the Joomla CMS.
 
 Important things to note:  
 
-1. Page view tracking in this module has been disabled.  This was done because Joomla websites will likely have pages outside of MijoShop, like blog articles, event pages, etc.  So this module will only push the eCommerce events to Piwik.  You will need to install another Joomla extension, like nfrPiwik, to track your page views.
+1. Page view tracking in this module has been disabled.  This was done because Joomla websites will likely have pages that are outside of the MijoShop component, like blog articles, event pages, etc.  So this module will only push the eCommerce events to Piwik.  You will need to install another Joomla extension, like nfrPiwik, to track your page views.
 
-2. We have tested this plugin and it works on our installation.  We make no guarantees, but encourage feedback to iron out any issues.
+2. We have tested this plugin and it works on our installation.  We make no guarantees, but let us know if you run into any issues.
 
 3. Please read Kevin's directions below, they explain the entire installation process.
 

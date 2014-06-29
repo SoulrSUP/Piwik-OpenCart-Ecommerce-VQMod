@@ -16,7 +16,7 @@
 	</file>
 	<file name="catalog/view/theme/*/template/common/footer.tpl">
 		<operation>
-			<search position="before" offset="1"><![CDATA[</body>]]></search>
+			<search position="before" offset="1" index="2"><![CDATA[</div>]]></search>
 			<add><![CDATA[
 <?php echo $piwik_footer_text; ?>
 			]]></add>
